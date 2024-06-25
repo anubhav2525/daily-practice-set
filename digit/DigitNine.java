@@ -31,6 +31,5 @@ public class DigitNine {
                 System.out.print("*");
             System.out.println();
         }
-
     }
 }
