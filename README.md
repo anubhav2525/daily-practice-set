@@ -1,6 +1,7 @@
 
 # Practice Set
 
+###
 ## If else
 1. Write a program to accept two integers and check they are equal or not.
 2.	Write a program to check a number is even or odd.
@@ -21,7 +22,7 @@
 17.	Write a program to find the largest among 2 number.
 18.	Write a program to find the largest among 3 number.
 
-## 
+###
 ## Mathematical Calculation
 
 1.	Write a program to check profit and loss.
@@ -39,7 +40,7 @@
 
 	        Roll :01
 	        Name : John
-	        Marks :80 40 60
+	        Marks : 80 40 60
 
 
         Output-
@@ -70,7 +71,7 @@
             Description : very good..
 
 
-## 
+###
 ## Loops
 
 1.	Write a program to display first 10 natural number.
@@ -78,11 +79,11 @@
 3.	Write a program to display n terms and their sum.
 4.	Write a program to calculate cube, square.
 5.	Write a program to calculate these format
-
-        a)	1+x+x2+x3+x4
-        b)	1+x2+x4+x6
-        c)	1+x+x3+x5
-        d)	x.x2+x.x3+x.x4
+    - 1+x+x2+x3+x4
+    - 1+x2+x4+x6
+    - 1+x+x3+x5
+    -	x.x2+x.x3+x.x4
+#####
 
 6.	Write a program to print reverse order form n to 1.
 7.	Write a program to print 1 to N.
@@ -109,43 +110,43 @@
 16.	Write a program to check prime number.
 17.	Write a program to accept a numbers and sum all and total even are present.
 
-## 
+###
 ## Pattern printing
 PATTERN PRINTING
 
     1
-    12
-    123
-    1234
+    1 2
+    1 2 3
+    1 2 3 4
 
     1
-    21
-    321
-    4321
+    2 1
+    3 2 1
+    4 3 2 1
 
     4
-    43
-    432
-    4321
+    4 3
+    4 3 2
+    4 3 2 1
 
     4
-    34
-    234
-    1234
+    3 4
+    2 3 4
+    1 2 3 4
 
-    4321
-    432
-    43
+    4 3 2 1
+    4 3 2
+    4 3
     4
 
-    4321
-    321
-    21
+    4 3 2 1
+    3 2 1
+    2 1
     1
 
-    4444
-    333
-    22
+    4 4 4 4
+    3 3 3
+    2 2
     1
 
     1
@@ -158,15 +159,15 @@ PATTERN PRINTING
     3  2
     1
 
-    1234
-    123
-    12
+    1 2 3 4
+    1 2 3
+    1 2
     1
 
     1
-    22
-    333
-    4444
+    2 2
+    3 3 3
+    4 4 4 4
 
     1
     0 1
@@ -186,64 +187,64 @@ PATTERN PRINTING
           1
 
 
-    4321
-     321
-      21
-       1
+    4 3 2 1
+      3 2 1
+        2 1
+          1
     
 
-       1
-      21
-     321
-	4321
+          1
+        2 1
+      3 2 1
+	4 3 2 1
 
 
-       4
-      34
-     234
-    1234
+          4
+        3 4
+      2 3 4
+    1 2 3 4
 
 
-    4321
-     432
-      43
-       4
+    4 3 2 1
+      4 3 2
+        4 3
+          4
 
 
-       1
-      21
-     321
-    4321
+          1
+        2 1
+      3 2 1
+    4 3 2 1
 
 
-       4
-      34
-     234
-    1234
+          4
+        3 4
+      2 3 4
+    1 2 3 4
 
 
-    4321
-     432
-      43
-       4
+    4 3 2 1
+      4 3 2
+        4 3
+          4
 
 
-       1
-      22
-     333
-    4444
+          1
+        2 2
+      3 3 3
+    4 4 4 4
 
 
-    4444
-     333
-      22
-       1
+    4 4 4 4
+      3 3 3
+        2 2
+          1
 
 
-    1010
-     010
-      10
-       0
+    1 0 1 0
+      0 1 0
+        1 0
+          0
 
 
     12345
@@ -305,22 +306,23 @@ PATTERN PRINTING
     1 2
     1
 
+
     13 14 15 16
     09 10 11 12
     05 06 07 08
     01 02 03 04
 
-                  1 
-                2 1 2 
-              3 2 1 2 3 
-            4 3 2 1 2 3 4 
-          5 4 3 2 1 2 3 4 5 
-        6 5 4 3 2 1 2 3 4 5 6 
+
+              1 
+            2 1 2 
+          3 2 1 2 3 
+        4 3 2 1 2 3 4 
+      5 4 3 2 1 2 3 4 5 
+    6 5 4 3 2 1 2 3 4 5 6 
 
 
 
-
-## 
+### 
 ## Digit printing
 
 
@@ -449,30 +451,32 @@ PATTERN PRINTING
 
 ## 
 ## Function
-1. WAP to create a function to display hello world.
-2. WAP to create a function to display sum of two numbers.
-3. WAP to create a function to add two number using arguments.
-4. WAP to create a function to accept numbers and display the average.
-5. WAP to accept array in arguments and display the length, data using function.
-6. WAP to reverse of a number.
-7. WAP to Inverse of a number with index no.
-8. WAP to count no of digits in a number.
-9. WAP to find LCM of number.
-10. WAP to find HCF of number.
+
+- WAP to create a function to display hello world.
+- WAP to create a function to display sum of two numbers.
+- WAP to create a function to add two number using arguments.- WAP to create a function to accept numbers and display the average.
+- WAP to accept array in arguments and display the length, data using function.
+- WAP to reverse of a number.
+- WAP to Inverse of a number with index no.
+- WAP to count no of digits in a number.
+- WAP to find LCM of number.
+- WAP to find HCF of number.
 
 
-## 
+###
 ## Array
 
 1. WAP to create an array of ten elements.
 2. Write a program to accept N term and 
-- Add all even
-- Add all odd
-- Add all prime
-- Count of even
-- Count of prime number
-- Count of odd number
-
+    - Add all even
+    - Add all odd
+    - Add all prime
+    - Count of even
+    - Count of prime number
+    - Count of odd number
+  
+  
+####
 3. Write a program to store elements in an array and print them.
 4. Write a program to read n number of values in an array and display them in reverse order.
 5. Write a program to find the sum of all elements of the array.
@@ -594,7 +598,7 @@ PATTERN PRINTING
 
 - Write a Java program to create a class called "ElectronicsProduct" with attributes for product ID, name, and price. Implement methods to apply a discount and calculate the final price. Create a subclass " WashingMachine" that adds a warranty period attribute and a method to extend the warranty.
 
-## 
+###
 ## Inheritance
 - Write a Java program to create a class called Animal with a method called makeSound(). Create a subclass called Cat that overrides the makeSound() method to bark.
 
