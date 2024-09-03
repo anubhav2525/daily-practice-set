@@ -454,7 +454,8 @@ PATTERN PRINTING
 
 - WAP to create a function to display hello world.
 - WAP to create a function to display sum of two numbers.
-- WAP to create a function to add two number using arguments.- WAP to create a function to accept numbers and display the average.
+- WAP to create a function to add two number using arguments.
+- WAP to create a function to accept numbers and display the average.
 - WAP to accept array in arguments and display the length, data using function.
 - WAP to reverse of a number.
 - WAP to Inverse of a number with index no.
